@@ -1,0 +1,5 @@
+PORT=4001
+MONGODB_URI=mongodb+srv://bob:<password>@cluster0.fgcab.mongodb.net/todo-track
+JWT_SECRET_KEY=enter any secret key
+FRONTEND_URL=http://localhost:portno
+
